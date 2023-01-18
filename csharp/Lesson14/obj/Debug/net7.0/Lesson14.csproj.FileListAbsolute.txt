@@ -1,0 +1,15 @@
+/Users/masav/Developer/csharp/Lesson14/bin/Debug/net7.0/Lesson14
+/Users/masav/Developer/csharp/Lesson14/bin/Debug/net7.0/Lesson14.deps.json
+/Users/masav/Developer/csharp/Lesson14/bin/Debug/net7.0/Lesson14.runtimeconfig.json
+/Users/masav/Developer/csharp/Lesson14/bin/Debug/net7.0/Lesson14.dll
+/Users/masav/Developer/csharp/Lesson14/bin/Debug/net7.0/Lesson14.pdb
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/Lesson14.csproj.AssemblyReference.cache
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/Lesson14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/Lesson14.AssemblyInfoInputs.cache
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/Lesson14.AssemblyInfo.cs
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/Lesson14.csproj.CoreCompileInputs.cache
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/Lesson14.dll
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/refint/Lesson14.dll
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/Lesson14.pdb
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/Lesson14.genruntimeconfig.cache
+/Users/masav/Developer/csharp/Lesson14/obj/Debug/net7.0/ref/Lesson14.dll
