@@ -14,7 +14,7 @@ namespace Program6
 
   class Program
   {
-    unsafe static void Main()
+    unsafe static void notMain()
     {
       Struct copy;
       Struct* pStruct;
