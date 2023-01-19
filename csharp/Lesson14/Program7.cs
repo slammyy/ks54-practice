@@ -7,7 +7,7 @@ namespace Program7
 
   class Program
   {
-    unsafe static void Main()
+    unsafe static void notMain()
     {
       fixed (int* pNumber = &new MyClass().number)
       {
