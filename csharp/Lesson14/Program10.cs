@@ -2,7 +2,7 @@ namespace Program10
 {
   class Program
   {
-    unsafe static void Main()
+    unsafe static void NotMain()
     {
       string text = "дед макар";
 
