@@ -2,19 +2,44 @@ namespace Program3
 {
     class Program
     {
-        static void CheckOdd(int number)
+        public static Random rand = new Random();
+        public static int number = rand.Next(1000);
+
+        static void CheckOdd()
         {
-            string returner = number % 2 != 0 ? "Number is odd" : "Number is even";
+            Thread.Sleep(2000);
+
             if (number % 2 != 0)
-                return "Number is odd";
+            {
+                Console.WriteLine("{0} is odd", number);
+            }
+
             else
-                return "Number is even";
+            {
+                Console.WriteLine("{0} is even", number);
+            }
+
         }
 
-        static void CheckThreeDivision(int number)
+        static void CheckDivisionByThree()
         {
-            string returner = number % 3 == 0 ? "Number can be divided by 3" : "Number can't be divided by 3";
+            if (number % 3 == 0)
+            {
+                Console.WriteLine("{0} can be divided by 3", number);
+            }
+
+            else
+            {
+                Console.WriteLine("{0} can't be divided by 3", number);
+            }
+        }
+
+        static void NotMain()
+        {
+            Thread FirstThread = new Thread(CheckOdd);
+            FirstThread.Start();
+            Thread SecondThread = new Thread(CheckDivisionByThree);
+            SecondThread.Start();
         }
     }
-    
 }

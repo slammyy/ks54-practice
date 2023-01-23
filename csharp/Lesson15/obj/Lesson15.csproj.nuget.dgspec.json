@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/masav/Developer/practice/csharp/Lesson15/Lesson15.csproj": {}
+    "/Users/masav/collage/practice/csharp/Lesson15/Lesson15.csproj": {}
   },
   "projects": {
-    "/Users/masav/Developer/practice/csharp/Lesson15/Lesson15.csproj": {
+    "/Users/masav/collage/practice/csharp/Lesson15/Lesson15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/masav/Developer/practice/csharp/Lesson15/Lesson15.csproj",
+        "projectUniqueName": "/Users/masav/collage/practice/csharp/Lesson15/Lesson15.csproj",
         "projectName": "Lesson15",
-        "projectPath": "/Users/masav/Developer/practice/csharp/Lesson15/Lesson15.csproj",
+        "projectPath": "/Users/masav/collage/practice/csharp/Lesson15/Lesson15.csproj",
         "packagesPath": "/Users/masav/.nuget/packages/",
-        "outputPath": "/Users/masav/Developer/practice/csharp/Lesson15/obj/",
+        "outputPath": "/Users/masav/collage/practice/csharp/Lesson15/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/masav/.nuget/NuGet/NuGet.Config"

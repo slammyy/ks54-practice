@@ -28,7 +28,7 @@ namespace Program4
             }
         }
 
-        static void Main(string[] args)
+        static void NotMain(string[] args)
         {
             Thread thread1 = new Thread(EvenIndex);
             thread1.Start();
