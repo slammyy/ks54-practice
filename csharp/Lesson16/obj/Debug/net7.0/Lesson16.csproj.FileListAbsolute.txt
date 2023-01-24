@@ -1,0 +1,15 @@
+/Users/masav/collage/practice/csharp/Lesson16/bin/Debug/net7.0/Lesson16
+/Users/masav/collage/practice/csharp/Lesson16/bin/Debug/net7.0/Lesson16.deps.json
+/Users/masav/collage/practice/csharp/Lesson16/bin/Debug/net7.0/Lesson16.runtimeconfig.json
+/Users/masav/collage/practice/csharp/Lesson16/bin/Debug/net7.0/Lesson16.dll
+/Users/masav/collage/practice/csharp/Lesson16/bin/Debug/net7.0/Lesson16.pdb
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/Lesson16.csproj.AssemblyReference.cache
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/Lesson16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/Lesson16.AssemblyInfoInputs.cache
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/Lesson16.AssemblyInfo.cs
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/Lesson16.csproj.CoreCompileInputs.cache
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/Lesson16.dll
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/refint/Lesson16.dll
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/Lesson16.pdb
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/Lesson16.genruntimeconfig.cache
+/Users/masav/collage/practice/csharp/Lesson16/obj/Debug/net7.0/ref/Lesson16.dll
