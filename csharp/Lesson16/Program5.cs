@@ -12,9 +12,9 @@ namespace Program5
             }
         }
 
-        static void Main()
+        static void NotMain()
         {
-            Person<int> obj = new Person<int>();
+            Person<string> obj = new Person<string>();
 
             obj[0] = "Gregor";
             obj[1] = "Jim";
