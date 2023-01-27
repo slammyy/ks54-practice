@@ -2,7 +2,7 @@ namespace Program4
 {
     class Program
     {
-        static void Main()
+        static void NotMain()
         {
             try
             {
